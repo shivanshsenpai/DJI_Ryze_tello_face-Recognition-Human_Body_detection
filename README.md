@@ -11,3 +11,7 @@ DroneProject/
 │   ├── yolov4.cfg   # YOLO configuration
 │   ├── yolov4.weights # YOLO weights
 │   └── coco.names   # COCO labels file
+
+
+
+I have also added a small extra code so that one could also check thier Drone Battery 
